@@ -1,0 +1,322 @@
+[
+    {
+        "tweet_id": 1940864335083196819,
+        "user_id": 216939636,
+        "content": "I\u2019d like to share a tip for getting more practice building with AI \u2014 that is, either using AI building blocks to build applications or using AI coding assistance to create powerful applications quickly: If you find yourself with only limited time to build, reduce the scope of your project until you can build something in whatever time you do have.\n\nIf you have only an hour, find a small component of an idea that you're excited about that you can build in an hour. With modern coding assistants like Anthropic\u2019s Claude Code (my favorite dev tool right now), you might be surprised at how much you can do even in short periods of time! This gets you going, and you can always continue the project later.\n\nTo become good at building with AI, most people must (i) learn relevant techniques, for example by taking online AI courses, and (ii) practice building. I know developers who noodle on ideas for months without actually building anything \u2014 I\u2019ve done this too! \u2014 because we feel we don\u2019t have time to get started. If you find yourself in this position, I encourage you to keep cutting the initial project scope until you identify a small component you can build right away.\n\nLet me illustrate with an example \u2014 one of my many small, fun weekend projects that might never go anywhere, but that I\u2019m glad I did.\n\nHere\u2019s the idea: Many people fear public speaking. And public speaking is challenging to practice, because it's hard to organize an audience. So I thought it would be interesting to build an audience simulator to provide a digital audience of dozens to hundreds of virtual people on a computer monitor and let a user practice by speaking to them.\n\nOne Saturday afternoon, I found myself in a coffee shop with a couple of hours to spare and decided to give the audience simulator a shot. My familiarity with graphics coding is limited, so instead of building a complex simulator of a large audience and writing AI software to simulate appropriate audience responses, I decided to cut scope significantly to (a) simulating an audience of one person (which I could replicate later to simulate N persons), (b) omitting AI and letting a human operator manually select the reaction of the simulated audience (similar to Wizard of Oz prototyping), and (c) implementing the graphics using a simple 2D avatar.\n\nUsing a mix of several coding assistants, I built a basic version in the time I had. The avatar could move subtly and blink, but otherwise it used basic graphics. Even though it fell far short of a sophisticated audience simulator, I am glad I built this. In addition to moving the project forward and letting me explore different designs, it advanced my knowledge of basic graphics. Further, having this crude prototype to show friends helped me get user feedback that shaped my views on the product idea.\n\nI have on my laptop a list of ideas of things that I think would be interesting to build. Most of them would take much longer than the handful of hours I might have to try something on a given day, but by cutting their scope, I can get going, and the initial progress on a project helps me decide if it\u2019s worth further investment. As a bonus, hacking on a wide variety of applications helps me practice a wide range of skills. But most importantly, this gets an idea out of my head and potentially in front of prospective users for feedback that lets the project move faster.\n\n[Original text: https://t.co/UP6arTWAdV ]",
+        "published_at": "2025-07-03T20:04:51+00:00",
+        "likes": 1550,
+        "retweets": 433,
+        "replies": 58,
+        "url": "https://twitter.com/AndrewYNg/status/1940864335083196819"
+    },
+    {
+        "tweet_id": 1940186085491192128,
+        "user_id": 33836629,
+        "content": "@joellisenby Water is easy. Correct answer is reverse osmosis filter under the sink and only drink water from that. Air is easy, lots of good HEPA filters around. Food is really, really hard.",
+        "published_at": "2025-07-01T23:09:44+00:00",
+        "likes": 12,
+        "retweets": 0,
+        "replies": 2,
+        "url": "https://twitter.com/karpathy/status/1940186085491192128"
+    },
+    {
+        "tweet_id": 1940185494358565043,
+        "user_id": 33836629,
+        "content": "@kevinmuto Exactly, same. It could be the tiniest details and it feels random and impossible to reason about. It was the same with boba guys plastics, where iirc they later narrowed it down and fixed it. No one looked.",
+        "published_at": "2025-07-01T23:07:23+00:00",
+        "likes": 47,
+        "retweets": 0,
+        "replies": 5,
+        "url": "https://twitter.com/karpathy/status/1940185494358565043"
+    },
+    {
+        "tweet_id": 1940181840201228384,
+        "user_id": 33836629,
+        "content": "Test-based certification is the only way forward in food, eager to see more over time.\n\nFood is not simple anymore - it is a complex, industrial product with global supply and processing chains. Contamination can be introduced in many stages along the way from farming to harvest, processing, packaging, transport and preparation. Examples include pesticides, nitrates, heavy metals, plastics, bacteria, etc etc. So it's not just about what food to eat, it's about which specific food item SKU, from which specific supplier, and the only way to know is to test. E.g. these two cat foods look the same, the ingredients might look the same, but the one on the left is 1000X higher in glyphosate and 100X in lead. Or e.g. this baby food formula or turmeric is loaded with heavy metals, this canned seafood, your local boba or this milk brand is seeped in plastics, or this breakfast cereal way way too high in glyphosate (real examples).\n\nI used to think that the FDA exercises oversight but the reality is that it doesn't have anywhere near enough resources to do it thoroughly and their focus is a lot more on e.g. acute microbial threats (like Salmonella, E. coli, Listeria, ...) that immediately hospitalize people, less on the rapidly growing diversity of compounds that may or may not deteriorate health over decades and that are basically treated as innocent until proven guilty under GRAS and so on. Meanwhile, the public health macro picture looks not so great - obesity up, type-2 diabetes up, fertility down (sperm count/motility), weird endocrine trends (e.g. testosterone down in men), depression and anxiety up... It wouldn't shock me if modern industrial food turns out to be a major contributor.",
+        "published_at": "2025-07-01T22:52:52+00:00",
+        "likes": 1908,
+        "retweets": 333,
+        "replies": 102,
+        "url": "https://twitter.com/karpathy/status/1940181840201228384"
+    },
+    {
+        "tweet_id": 1940112033493786979,
+        "user_id": 17468569,
+        "content": "Something new and exciting is here\n\nDog and cat food toxin testing\n+ fund your pet's food\n+ if brand claims results, your money comes back \n+ fund more tests\n\nTogether we can rapidly test all US dog and cat food. \n\nInitial results \nBlueprint Quantified tested 22 mass-market products (12 dog foods, 10 cat foods) from 14 US national brands. \n\nGlyphosate\n+ Detected in 21 of 22 products (95%).\n+ 8 products hit the upper detection limit of 1,000 ppm\n+ That\u2019s 118 mg glyphosate in a 118 g serving, equivalent to maximum tolerable exposure for 68 kg human \n+ Lowest non-zero hit: 0.04 ppm (Merrick Chicken & Sweet Potato)\n\nHeavy metals\n+ mercury, lead, arsenic, and cadmium were detected in every sample\n+ arsenic: up to 0.238 ppm / 238 ppb (Sheba Seafood Wet Cat Food). 8.9 mcg per 38 g serving\n+ cadmium: up to 0.084 ppm / 83.6 ppb (Royal Canin Medium Adult Dog).\n+ lead: up to 0.343 ppm / 343 ppb (Royal Canin Indoor Adult Cat), 12.9 mcg of lead per 38 g serving\u00a0 (26x California Prop 65\u2019s daily limit (0.5 mcg))\n+ mercury: up to 0.012 ppm / 11.8 ppb (Sheba Seafood Wet Cat Food)\n\nTop heavy metal toxicity:\n+ Wellness CORE+ Original (Dog): 43.4 \u00b5g/serving\n+ Nutro Natural Choice Small Breed (Dog): 42.6 \u00b5g/serving\n+ Blue Buffalo Homestyle Senior (Dog, wet): 35.6 \u00b5g/serving\n+ Royal Canin Size Health Medium Dog: 33.7 \u00b5g/serving\n+ Pedigree Small Dog \u201cGrilled Steak & Veg\u201d (Dog): 27.9 \u00b5g \u00b5g/serving\n\nCleanest product\nPurina Friskies Surfin\u2019 & Turfin\u2019 (Cat) had non-detectable glyphosate, and the second lowest total heavy metals.",
+        "published_at": "2025-07-01T18:15:28+00:00",
+        "likes": 1215,
+        "retweets": 82,
+        "replies": 109,
+        "url": "https://twitter.com/bryan_johnson/status/1940112033493786979"
+    },
+    {
+        "tweet_id": 1939709449956126910,
+        "user_id": 33836629,
+        "content": "Love this project:  nanoGPT -> recursive self-improvement benchmark. Good old nanoGPT keeps on giving and surprising :)\n\n- First I wrote it as a small little repo to teach people the basics of training GPTs.\n- Then it became a target and baseline for my port to direct C/CUDA re-implementation in llm.c.\n- Then that was modded (by @kellerjordan0 et al.) into a (small-scale) LLM research harness. People iteratively optimized the training so that e.g. reproducing GPT-2 (124M) performance takes not 45 min (original) but now only 3 min!\n- Now the idea is to use this process of optimizing the code as a benchmark for LLM coding agents. If humans can speed up LLM training from 45 to 3 minutes, how well do LLM Agents do, under different kinds of settings (e.g. with or without hints etc.)? (spoiler: in this paper, as a baseline and right now not that well, even with strong hints).\n\nThe idea of recursive self-improvement has of course been around for a long time. My usual rant on it is that it's not going to be this thing that didn't exist and then suddenly exists. Recursive self-improvement has already begun a long time ago and is under-way today in a smooth, incremental way. First, even basic software tools (e.g. coding IDEs) fall into the category because they speed up programmers in building the N+1 version. Any of our existing software infrastructure that speeds up development (google search, git, ...) qualifies. And then if you insist on AI as a special and distinct, most programmers now already routinely use LLM code completion or code diffs in their own programming workflows, collaborating in increasingly larger chunks of functionality and experimentation. This amount of collaboration will continue to grow.\n\nIt's worth also pointing out that nanoGPT is a super simple, tiny educational codebase (~750 lines of code) and for only the pretraining stage of building LLMs. Production-grade code bases are *significantly* (100-1000X?) bigger and more complex. But for the current level of AI capability, it is imo an excellent, interesting, tractable benchmark that I look forward to following.",
+        "published_at": "2025-06-30T15:35:45+00:00",
+        "likes": 4319,
+        "retweets": 670,
+        "replies": 91,
+        "url": "https://twitter.com/karpathy/status/1939709449956126910"
+    },
+    {
+        "tweet_id": 1939656629143675262,
+        "user_id": 335130183,
+        "content": "Recently, there has been a lot of talk of LLM agents automating ML research itself. If Llama 5 can create Llama 6, then surely the singularity is just around the corner. \n\nHow can we get a pulse check on whether current LLMs are capable of driving this kind of total self-improvement?\n\nWell, we know humans are pretty good at improving LLMs. In the NanoGPT speedrun challenge, created by @kellerjordan0, human researchers iteratively improved @karpathy's GPT-2 replication, slashing the training time (to the same target validation loss) from 45 minutes to under 3 minutes in just under a year (!).\n\nSurely, a necessary (but not sufficient) ability for an LLM that can automatically improve frontier techniques is the ability to *reproduce* known innovations on GPT-2, a tiny language model from over 5 years ago. \ud83e\udd14\n\nSo we took several of the top models and combined them with various search scaffolds to create *LLM speedrunner agents*. We then asked these agents to reproduce each of the NanoGPT speedrun records, starting from the previous record, while providing them access to different forms of hints that revealed the exact changes needed to reach the next record.\n\nThe results were surprising\u2014not because we thought these agents would ace the benchmark, but because even the best agent failed to recover even half of the speed-up of human innovators on average in the easiest hint mode, where we show the agent the full pseudocode of the changes to the next record. \n\nWe believe The Automated LLM Speedrunning Benchmark provides a simple eval for measuring the lower bound of LLM agents\u2019 ability to reproduce scientific findings close to the frontier of ML. \n\nBeyond scientific reproducibility, this benchmark can also be run without hints, transforming into an automated *scientific innovation* benchmark. When run in \"innovation mode,\" this benchmark effectively extends the NanoGPT speedrun to AI participants! \n\nWhile initial results here indicate that current agents seriously struggle to match human innovators beyond just a couple of records, benchmarks have a tendency to fall. This one is particularly exciting to watch, as new state-of-the-art here by definition implies a form of *superhuman innovation*.",
+        "published_at": "2025-06-30T12:05:52+00:00",
+        "likes": 1088,
+        "retweets": 178,
+        "replies": 35,
+        "url": "https://twitter.com/MinqiJiang/status/1939656629143675262"
+    },
+    {
+        "tweet_id": 1940063437876601338,
+        "user_id": 4398626122,
+        "content": "Listen to the OpenAI Podcast on\u2014\n\nSpotify\nhttps://t.co/hLcRdGrfUX\n\nApple\nhttps://t.co/0AdZ1ZteOV\n\nYouTube\nhttps://t.co/764TsM6zW4",
+        "published_at": "2025-07-01T15:02:22+00:00",
+        "likes": 147,
+        "retweets": 34,
+        "replies": 13,
+        "url": "https://twitter.com/OpenAI/status/1940063437876601338"
+    },
+    {
+        "tweet_id": 1940063220456464880,
+        "user_id": 4398626122,
+        "content": "OpenAI Podcast Episode 2 is now live!\n\n@markchen90 and @nickaturley join @andrewmayne to pull back the curtain on the making of ChatGPT.\n\nThey also get into how products are developed and what\u2019s next for agentic coding and multimodal assistants. https://t.co/Bmz7RINIuo",
+        "published_at": "2025-07-01T15:01:31+00:00",
+        "likes": 1343,
+        "retweets": 222,
+        "replies": 183,
+        "url": "https://twitter.com/OpenAI/status/1940063220456464880"
+    },
+    {
+        "tweet_id": 1940840736884510756,
+        "user_id": 48008938,
+        "content": "@chatgpt21 @giffmana @borisdayma ASI, not AGI.\nAlways have.",
+        "published_at": "2025-07-03T18:31:05+00:00",
+        "likes": 157,
+        "retweets": 11,
+        "replies": 28,
+        "url": "https://twitter.com/ylecun/status/1940840736884510756"
+    },
+    {
+        "tweet_id": 1940400873492115576,
+        "user_id": 48008938,
+        "content": "Embrace openness.",
+        "published_at": "2025-07-02T13:23:13+00:00",
+        "likes": 380,
+        "retweets": 21,
+        "replies": 37,
+        "url": "https://twitter.com/ylecun/status/1940400873492115576"
+    },
+    {
+        "tweet_id": 1940230560439574656,
+        "user_id": 1324221717896597504,
+        "content": "In the current AI talent war, everyone is focused on the big numbers (alleged compensation packages). It misses the bigger picture: the cultural shift following the DeepSeek moment.\n\nMETA is the American leader in open science (publications) and open source (Llama). Both OpenAI and Anthropic are notoriously not open.\nAI talent moving into META is an AI talent that embraces OPENNESS.\n\nThat's great for the industry. That's great for science. That's even great for safety concerns (more transparency, more eyes on the problems, more solutions). That's a trend worth celebrating.\n\nOpenAI releasing an open-weights model later this summer (as promised below) might shift that balance.",
+        "published_at": "2025-07-02T02:06:28+00:00",
+        "likes": 184,
+        "retweets": 31,
+        "replies": 25,
+        "url": "https://twitter.com/DrTechlash/status/1940230560439574656"
+    },
+    {
+        "tweet_id": 1940399616752845117,
+        "user_id": 48008938,
+        "content": "@giffmana @borisdayma Exactly.",
+        "published_at": "2025-07-02T13:18:14+00:00",
+        "likes": 63,
+        "retweets": 0,
+        "replies": 3,
+        "url": "https://twitter.com/ylecun/status/1940399616752845117"
+    },
+    {
+        "tweet_id": 1940191322314600679,
+        "user_id": 48008938,
+        "content": "And the notion of \"compressibility\" says nothing about the tiny subset of sequences that are compressible.\nThe fact that the real-world sequences we choose to model are easily \"compressed\" by models that are simple to represent in the same world sounds a bit like a convenient conspiracy.",
+        "published_at": "2025-07-01T23:30:32+00:00",
+        "likes": 5,
+        "retweets": 0,
+        "replies": 3,
+        "url": "https://twitter.com/ylecun/status/1940191322314600679"
+    },
+    {
+        "tweet_id": 1940180375562559926,
+        "user_id": 48008938,
+        "content": "@giffmana Welcome to the club.",
+        "published_at": "2025-07-01T22:47:02+00:00",
+        "likes": 591,
+        "retweets": 4,
+        "replies": 16,
+        "url": "https://twitter.com/ylecun/status/1940180375562559926"
+    },
+    {
+        "tweet_id": 1940180031449219446,
+        "user_id": 48008938,
+        "content": "wellll, that's just because all the problems we can think of are very special.\nAs Einstein famously said \"the most incomprehensible thing about the world is that the world is comprehensible.\"\nNot only that, the world is comprehensible by brains whose inductive bias allows them to be small/localized in said world.",
+        "published_at": "2025-07-01T22:45:40+00:00",
+        "likes": 15,
+        "retweets": 0,
+        "replies": 1,
+        "url": "https://twitter.com/ylecun/status/1940180031449219446"
+    },
+    {
+        "tweet_id": 1940166213763833979,
+        "user_id": 48008938,
+        "content": "@Yuchenj_UW You are welcome to report to the Chief AI Officer of whatever company this Yan LeCunn dude works at.",
+        "published_at": "2025-07-01T21:50:46+00:00",
+        "likes": 2903,
+        "retweets": 37,
+        "replies": 79,
+        "url": "https://twitter.com/ylecun/status/1940166213763833979"
+    },
+    {
+        "tweet_id": 1940063284612198878,
+        "user_id": 48008938,
+        "content": "@AryanPa66861306 @jack_w_rae Chief AI Scientist. \nNo change since 2018.",
+        "published_at": "2025-07-01T15:01:46+00:00",
+        "likes": 58,
+        "retweets": 1,
+        "replies": 2,
+        "url": "https://twitter.com/ylecun/status/1940063284612198878"
+    },
+    {
+        "tweet_id": 1940063007137988639,
+        "user_id": 48008938,
+        "content": "Artificial Superintelligence has always made sense as an aspiration and long-term goal.\nIt has always been FAIR's long-term goal (as well as mine). It still is, now more than ever.\n\nArtificial General Intelligence never made sense: it's meant to designate \"human-level AI\", but human intelligence is very specialized and nowhere near general.",
+        "published_at": "2025-07-01T15:00:40+00:00",
+        "likes": 34,
+        "retweets": 1,
+        "replies": 6,
+        "url": "https://twitter.com/ylecun/status/1940063007137988639"
+    },
+    {
+        "tweet_id": 1940056051883069858,
+        "user_id": 48008938,
+        "content": "@smjain @jack_w_rae It's not sad, it's great!\nI don't like managing things and I'm not good at operational stuff.\nI'm much better at scientific leadership: I lead with ideas.\nPeople listen to me because they like the ideas, not because I'm their boss.",
+        "published_at": "2025-07-01T14:33:01+00:00",
+        "likes": 220,
+        "retweets": 9,
+        "replies": 6,
+        "url": "https://twitter.com/ylecun/status/1940056051883069858"
+    },
+    {
+        "tweet_id": 1940032701785931787,
+        "user_id": 48008938,
+        "content": "@jack_w_rae Welcome to Meta Superintelligence Lab, Jack!",
+        "published_at": "2025-07-01T13:00:14+00:00",
+        "likes": 716,
+        "retweets": 2,
+        "replies": 19,
+        "url": "https://twitter.com/ylecun/status/1940032701785931787"
+    },
+    {
+        "tweet_id": 1940028368147112300,
+        "user_id": 48008938,
+        "content": "AI on the cover of Newsweek\nhttps://t.co/JxFYN0VvOx https://t.co/bYfhX7vPUO",
+        "published_at": "2025-07-01T12:43:01+00:00",
+        "likes": 140,
+        "retweets": 14,
+        "replies": 21,
+        "url": "https://twitter.com/ylecun/status/1940028368147112300"
+    },
+    {
+        "tweet_id": 1939817690182422562,
+        "user_id": 48008938,
+        "content": "Indeed.",
+        "published_at": "2025-06-30T22:45:52+00:00",
+        "likes": 715,
+        "retweets": 20,
+        "replies": 44,
+        "url": "https://twitter.com/ylecun/status/1939817690182422562"
+    },
+    {
+        "tweet_id": 1939436225221587114,
+        "user_id": 295339039,
+        "content": "JEPA is on the rise. @ylecun was right.",
+        "published_at": "2025-06-29T21:30:03+00:00",
+        "likes": 153,
+        "retweets": 9,
+        "replies": 25,
+        "url": "https://twitter.com/AnjneyMidha/status/1939436225221587114"
+    },
+    {
+        "tweet_id": 1939817619667726744,
+        "user_id": 48008938,
+        "content": "@OkinStarkiller @AnjneyMidha JEPA is designed for latent-space reasoning and planning.",
+        "published_at": "2025-06-30T22:45:35+00:00",
+        "likes": 27,
+        "retweets": 0,
+        "replies": 0,
+        "url": "https://twitter.com/ylecun/status/1939817619667726744"
+    },
+    {
+        "tweet_id": 1939816837664895030,
+        "user_id": 48008938,
+        "content": "@noah_vandal @ZoubinGhahrama1 @geoffreyhinton Yes",
+        "published_at": "2025-06-30T22:42:28+00:00",
+        "likes": 3,
+        "retweets": 0,
+        "replies": 0,
+        "url": "https://twitter.com/ylecun/status/1939816837664895030"
+    },
+    {
+        "tweet_id": 1939168281249697835,
+        "user_id": 48008938,
+        "content": "@ZoubinGhahrama1 @geoffreyhinton No backprop.",
+        "published_at": "2025-06-29T03:45:20+00:00",
+        "likes": 364,
+        "retweets": 4,
+        "replies": 20,
+        "url": "https://twitter.com/ylecun/status/1939168281249697835"
+    },
+    {
+        "tweet_id": 1940616072304251152,
+        "user_id": 1482581556,
+        "content": "Exciting update: our state-of-the-art video generation model Veo 3 is now shipping globally for all @GeminiApp Pro users, instructions on how to access in the thread below.",
+        "published_at": "2025-07-03T03:38:21+00:00",
+        "likes": 1364,
+        "retweets": 161,
+        "replies": 63,
+        "url": "https://twitter.com/demishassabis/status/1940616072304251152"
+    },
+    {
+        "tweet_id": 1940612473263923385,
+        "user_id": 206546319,
+        "content": "The wait is over. @GeminiApp is now shipping Veo 3 *globally* for all Pro members!\n\nThat means India, Indonesia, all of Europe, and more are starting to get access to create videos right now.\n\nAs a member, you'll get 3 video generations per day, and that credit will replenish daily.\n\nHow to get it\u00a0\ud83d\udc47",
+        "published_at": "2025-07-03T03:24:03+00:00",
+        "likes": 2094,
+        "retweets": 420,
+        "replies": 167,
+        "url": "https://twitter.com/joshwoodward/status/1940612473263923385"
+    },
+    {
+        "tweet_id": 1940419306271248387,
+        "user_id": 1482581556,
+        "content": "@JayD0ubleu glad you caught the reference!",
+        "published_at": "2025-07-02T14:36:28+00:00",
+        "likes": 95,
+        "retweets": 2,
+        "replies": 4,
+        "url": "https://twitter.com/demishassabis/status/1940419306271248387"
+    },
+    {
+        "tweet_id": 1940248521111961988,
+        "user_id": 1482581556,
+        "content": "now wouldn't that be something...",
+        "published_at": "2025-07-02T03:17:50+00:00",
+        "likes": 4550,
+        "retweets": 246,
+        "replies": 210,
+        "url": "https://twitter.com/demishassabis/status/1940248521111961988"
+    },
+    {
+        "tweet_id": 1940221678958891446,
+        "user_id": 1417826366687383563,
+        "content": "Let me play a video game of my veo 3 videos already.\n\nGoogle cooked so good \ud83d\udc4c \n\n@OfficialLoganK  playable world models wen? https://t.co/T0nsOq9X1E",
+        "published_at": "2025-07-02T01:31:10+00:00",
+        "likes": 983,
+        "retweets": 46,
+        "replies": 56,
+        "url": "https://twitter.com/apples_jimmy/status/1940221678958891446"
+    }
+]

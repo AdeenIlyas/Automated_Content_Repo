@@ -1,0 +1,8 @@
+twscrape
+asyncio
+google-api-python-client
+yt-dlp
+python-dotenv
+tenacity
+youtube-transcript-api
+linkedin-api

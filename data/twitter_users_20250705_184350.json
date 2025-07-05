@@ -1,0 +1,79 @@
+[
+    {
+        "user_id": 216939636,
+        "username": "AndrewYNg",
+        "display_name": "Andrew Ng",
+        "followers_count": 1218674,
+        "following_count": 1016
+    },
+    {
+        "user_id": 33836629,
+        "username": "karpathy",
+        "display_name": "Andrej Karpathy",
+        "followers_count": 1324784,
+        "following_count": 985
+    },
+    {
+        "user_id": 17468569,
+        "username": "bryan_johnson",
+        "display_name": "Bryan Johnson",
+        "followers_count": 616244,
+        "following_count": 726
+    },
+    {
+        "user_id": 335130183,
+        "username": "MinqiJiang",
+        "display_name": "Minqi Jiang",
+        "followers_count": 4988,
+        "following_count": 877
+    },
+    {
+        "user_id": 4398626122,
+        "username": "OpenAI",
+        "display_name": "OpenAI",
+        "followers_count": 4207326,
+        "following_count": 3
+    },
+    {
+        "user_id": 48008938,
+        "username": "ylecun",
+        "display_name": "Yann LeCun",
+        "followers_count": 920305,
+        "following_count": 756
+    },
+    {
+        "user_id": 1324221717896597504,
+        "username": "DrTechlash",
+        "display_name": "Nirit Weiss-Blatt, PhD",
+        "followers_count": 5052,
+        "following_count": 210
+    },
+    {
+        "user_id": 295339039,
+        "username": "AnjneyMidha",
+        "display_name": "Anjney Midha \ud83c\uddfa\ud83c\uddf8",
+        "followers_count": 26050,
+        "following_count": 2387
+    },
+    {
+        "user_id": 1482581556,
+        "username": "demishassabis",
+        "display_name": "Demis Hassabis",
+        "followers_count": 457024,
+        "following_count": 143
+    },
+    {
+        "user_id": 206546319,
+        "username": "joshwoodward",
+        "display_name": "Josh Woodward",
+        "followers_count": 21621,
+        "following_count": 748
+    },
+    {
+        "user_id": 1417826366687383563,
+        "username": "apples_jimmy",
+        "display_name": "Jimmy Apples \ud83c\udf4e/acc",
+        "followers_count": 56418,
+        "following_count": 1431
+    }
+]

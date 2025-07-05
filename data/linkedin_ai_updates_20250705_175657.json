@@ -1,0 +1,549 @@
+{
+  "scrape_date": "2025-07-05T17:56:33.597204",
+  "profiles": {
+    "andrewyng": {
+      "posts": [
+        {
+          "id": "unknown_0",
+          "content": {
+            "textDirection": "FIRST_STRONG",
+            "text": "I\u2019d like to share a tip for getting more practice building with AI \u2014 that is, either using AI building blocks to build applications or using AI coding assistance to create powerful applications quickly: If you find yourself with only limited time to build, reduce the scope of your project until you can build something in whatever time you do have.\n\nIf you have only an hour, find a small component of an idea that you're excited about that you can build in an hour. With modern coding assistants like Anthropic\u2019s Claude Code (my favorite dev tool right now), you might be surprised at how much you can do even in short periods of time! This gets you going, and you can always continue the project later.\n\nTo become good at building with AI, most people must (i) learn relevant techniques, for example by taking online AI courses, and (ii) practice building. I know developers who noodle on ideas for months without actually building anything \u2014 I\u2019ve done this too! \u2014 because we feel we don\u2019t have time to get started. If you find yourself in this position, I encourage you to keep cutting the initial project scope until you identify a small component you can build right away.\n\nLet me illustrate with an example \u2014 one of my many small, fun weekend projects that might never go anywhere, but that I\u2019m glad I did.\n\nHere\u2019s the idea: Many people fear public speaking. And public speaking is challenging to practice, because it's hard to organize an audience. So I thought it would be interesting to build an audience simulator to provide a digital audience of dozens to hundreds of virtual people on a computer monitor and let a user practice by speaking to them.\n\nOne Saturday afternoon, I found myself in a coffee shop with a couple of hours to spare and decided to give the audience simulator a shot. My familiarity with graphics coding is limited, so instead of building a complex simulator of a large audience and writing AI software to simulate appropriate audience responses, I decided to cut scope significantly to (a) simulating an audience of one person (which I could replicate later to simulate N persons), (b) omitting AI and letting a human operator manually select the reaction of the simulated audience (similar to Wizard of Oz prototyping), and (c) implementing the graphics using a simple 2D avatar.\n\nUsing a mix of several coding assistants, I built a basic version in the time I had. The avatar could move subtly and blink, but otherwise it used basic graphics. Even though it fell far short of a sophisticated audience simulator, I am glad I built this. In addition to moving the project forward and letting me explore different designs, it advanced my knowledge of basic graphics. Further, having this crude prototype to show friends helped me get user feedback that shaped my views on the product idea.\n\n[Truncated due to length limit; full text: https://lnkd.in/gAbfqfz9 ]"
+          },
+          "published": "2025-07-04T17:56:42.516814",
+          "url": "https://linkedin.com/feed/update/urn:li:activity:"
+        },
+        {
+          "id": "unknown_1",
+          "content": {
+            "textDirection": "FIRST_STRONG",
+            "text": "On Monday, a United States District Court ruled that training LLMs on copyrighted books constitutes fair use. A number of authors had filed suit against Anthropic for training its models on their books without permission. Just as we allow people to read books and learn from them to become better writers, but not to regurgitate copyrighted text verbatim, the judge concluded that it is fair use for AI models to do so as well.\n\nIndeed, Judge Alsup wrote that the authors\u2019 lawsuit is \u201cno different than it would be if they complained that training schoolchildren to write well would result in an explosion of competing works.\u201d While it remains to be seen whether the decision will be appealed, this ruling is reasonable and will be good for AI progress. (Usual caveat: I am not a lawyer and am not giving legal advice.)\n\nAI has massive momentum, but a few things could put progress at risk:\n- Regulatory capture that stifles innovation, including especially open source\n- Loss of access to cutting-edge semiconductor chips (the most likely cause would be war breaking out in Taiwan)\n- Regulations that severely impede access to data for training AI systems\n\nAccess to high-quality data is important. Even though the mass media tends to talk about the importance of building large data centers and scaling up models, when I speak with friends at companies that train foundation models, many describe a very large amount of their daily challenges as data preparation. Specifically, a significant fraction of their day-to-day work follows the usual Data Centric AI practices of identifying high-quality data (books are one important source), cleaning data (the ruling describes Anthropic taking steps like removing book pages' headers, footers, and page numbers), carrying out error analyses to figure out what types of data to acquire more of, and inventing new ways to generate synthetic data.\n\nI am glad that a major risk to data access just decreased. Appropriately, the ruling further said that Anthropic\u2019s conversion of books from paper format to digital \u2014 a step that\u2019s needed to enable training \u2014 also was fair use. However, in a loss for Anthropic, the judge indicated that, while training on data that was acquired legitimately is fine, using pirated materials (such as  texts downloaded from pirate websites) is not fair use. Thus, Anthropic still may be liable on this point. Other LLM providers, too, will now likely have to revisit their practices if they use datasets that may contain pirated works.\n\nOverall, the ruling is positive for AI progress. Perhaps the biggest benefit is that it reduces ambiguity with respect to AI training and copyright and (if it stands up to appeals) makes the roadmap for compliance clearer....\n\n[Truncated due to length limit. Full text: https://lnkd.in/gAmhYj3k ]"
+          },
+          "published": "2025-06-28T17:56:42.516814",
+          "url": "https://linkedin.com/feed/update/urn:li:activity:"
+        },
+        {
+          "id": "unknown_2",
+          "content": {
+            "textDirection": "FIRST_STRONG",
+            "attributes": [
+              {
+                "start": 172,
+                "length": 12,
+                "miniCompany": {
+                  "objectUrn": "urn:li:company:10272717",
+                  "entityUrn": "urn:li:fs_miniCompany:10272717",
+                  "name": "IBM Research",
+                  "showcase": true,
+                  "active": true,
+                  "logo": {
+                    "com.linkedin.common.VectorImage": {
+                      "artifacts": [
+                        {
+                          "width": 200,
+                          "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1630536257121/ibm_research_logo?e=1756944000&v=beta&t=XzjG68mguTdIY6FKZH9tHqsgb6ma7Y_twn_hYiLF2fE",
+                          "expiresAt": 1756944000000,
+                          "height": 200
+                        },
+                        {
+                          "width": 100,
+                          "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1630536257121/ibm_research_logo?e=1756944000&v=beta&t=KeR_3IxaZ3w8nuECZuCjmEMCBkxGlo22BntpuzS6L7g",
+                          "expiresAt": 1756944000000,
+                          "height": 100
+                        },
+                        {
+                          "width": 400,
+                          "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1630536257121/ibm_research_logo?e=1756944000&v=beta&t=6vjxZdrLu3Efo_kg83aEXOIEUzn2eLqUY4VKmwIk32g",
+                          "expiresAt": 1756944000000,
+                          "height": 400
+                        }
+                      ],
+                      "rootUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQFwiUAmQDgljg/company-logo_"
+                    }
+                  },
+                  "universalName": "ibm-research",
+                  "dashCompanyUrn": "urn:li:fsd_company:10272717",
+                  "trackingId": "7iJEzwbySOWlmdrpLpiFRg=="
+                },
+                "type": "COMPANY_NAME"
+              },
+              {
+                "start": 208,
+                "length": 11,
+                "miniProfile": {
+                  "firstName": "Sandi",
+                  "lastName": "Besen",
+                  "dashEntityUrn": "urn:li:fsd_profile:ACoAABLrxbUBg7-a1d-ut0W8TjP_r-nPUyFdaxA",
+                  "occupation": "Ecosystem Lead + AI Research Engineer, IBM Research | AI Startup Advisor",
+                  "objectUrn": "urn:li:member:317441461",
+                  "entityUrn": "urn:li:fs_miniProfile:ACoAABLrxbUBg7-a1d-ut0W8TjP_r-nPUyFdaxA",
+                  "backgroundImage": {
+                    "com.linkedin.common.VectorImage": {
+                      "artifacts": [
+                        {
+                          "width": 800,
+                          "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1623794404001?e=1756944000&v=beta&t=NQqULODtwn-QLrShhT77ZxshISO4BhS5JPvlrnbHwLE",
+                          "expiresAt": 1756944000000,
+                          "height": 200
+                        },
+                        {
+                          "width": 1140,
+                          "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1623794404001?e=1756944000&v=beta&t=ugD4be50xNEPERdBCokaAjqvB4b4sT63VvmUUwJU1J0",
+                          "expiresAt": 1756944000000,
+                          "height": 285
+                        }
+                      ],
+                      "rootUrl": "https://media.licdn.com/dms/image/v2/C5616AQEB_3gw8yzp3A/profile-displaybackgroundimage-shrink_"
+                    }
+                  },
+                  "publicIdentifier": "sandibesen",
+                  "picture": {
+                    "com.linkedin.common.VectorImage": {
+                      "artifacts": [
+                        {
+                          "width": 100,
+                          "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1710954314995?e=1756944000&v=beta&t=QpCAb1WlXIOGwhphqB0Q1MayA2_nD-FN07TNwU3N11s",
+                          "expiresAt": 1756944000000,
+                          "height": 100
+                        },
+                        {
+                          "width": 200,
+                          "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1710954314995?e=1756944000&v=beta&t=QEtTP1eN3DtYO_Y1uUHNR1xy-NEtsx03ULpzqM7ECwc",
+                          "expiresAt": 1756944000000,
+                          "height": 200
+                        },
+                        {
+                          "width": 400,
+                          "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1710954314995?e=1756944000&v=beta&t=VptzxTtj0ptGXqVhBbwGJ4d26eEmGjcNYgmKD0rnPLI",
+                          "expiresAt": 1756944000000,
+                          "height": 400
+                        },
+                        {
+                          "width": 800,
+                          "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1710954314995?e=1756944000&v=beta&t=2PzKqkswvUnDNM91dl6LZPwtNXmwNEzsXvM_Re9TVZ4",
+                          "expiresAt": 1756944000000,
+                          "height": 800
+                        }
+                      ],
+                      "rootUrl": "https://media.licdn.com/dms/image/v2/D5603AQFPho9Qtdl3NQ/profile-displayphoto-shrink_"
+                    }
+                  },
+                  "trackingId": "MfOO2rCEQd6HOo1AZ9V+IQ=="
+                },
+                "type": "PROFILE_MENTION"
+              },
+              {
+                "start": 271,
+                "length": 16,
+                "miniProfile": {
+                  "firstName": "Nicholas",
+                  "lastName": "Renotte",
+                  "dashEntityUrn": "urn:li:fsd_profile:ACoAABbxZgUBrud9C531KZPQHCs2riXCiv9Av2A",
+                  "occupation": "Head of AI Developer Advocacy, IBM",
+                  "objectUrn": "urn:li:member:384919045",
+                  "entityUrn": "urn:li:fs_miniProfile:ACoAABbxZgUBrud9C531KZPQHCs2riXCiv9Av2A",
+                  "backgroundImage": {
+                    "com.linkedin.common.VectorImage": {
+                      "artifacts": [
+                        {
+                          "width": 800,
+                          "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1598311186757?e=1756944000&v=beta&t=hMim-gDzb__xu0mv7OfuLo_clum8EX1jWS2yy9qS1bo",
+                          "expiresAt": 1756944000000,
+                          "height": 200
+                        },
+                        {
+                          "width": 1076,
+                          "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1598311186757?e=1756944000&v=beta&t=VJ66F6mrVXUT3XdlDGid-dbD1Dm5FygmEza0RdsoK1Y",
+                          "expiresAt": 1756944000000,
+                          "height": 269
+                        }
+                      ],
+                      "rootUrl": "https://media.licdn.com/dms/image/v2/C5616AQFniEmeig7JBg/profile-displaybackgroundimage-shrink_"
+                    }
+                  },
+                  "publicIdentifier": "nicholasrenotte",
+                  "picture": {
+                    "com.linkedin.common.VectorImage": {
+                      "artifacts": [
+                        {
+                          "width": 100,
+                          "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1572904536816?e=1756944000&v=beta&t=X1N-7Z0fF5JKhV7LI3iU4gnWTZZluMWDnzkH9nsgMeI",
+                          "expiresAt": 1756944000000,
+                          "height": 100
+                        },
+                        {
+                          "width": 200,
+                          "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1572904536794?e=1756944000&v=beta&t=I0ySVLp7y43CmMcB2VUmSGyUZllKR6ArQnOTi9hAC_Q",
+                          "expiresAt": 1756944000000,
+                          "height": 200
+                        },
+                        {
+                          "width": 400,
+                          "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1572904536850?e=1756944000&v=beta&t=AxPpuVx_1g_9y7sj8-ocncngGMiCRXULgoFCLgHTSdU",
+                          "expiresAt": 1756944000000,
+                          "height": 400
+                        },
+                        {
+                          "width": 500,
+                          "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1572904536871?e=1756944000&v=beta&t=Ic7zqGBK2SCH-UB_UKjgbEKHrRkI5SVg4TGklZ2thdE",
+                          "expiresAt": 1756944000000,
+                          "height": 500
+                        }
+                      ],
+                      "rootUrl": "https://media.licdn.com/dms/image/v2/C5603AQFK79ObRAq9IA/profile-displayphoto-shrink_"
+                    }
+                  },
+                  "trackingId": "ozu5U2tjTT6ws92WSURTzQ=="
+                },
+                "type": "PROFILE_MENTION"
+              }
+            ],
+            "text": "New Course: ACP: Agent Communication Protocol\n\nLearn to build agents that communicate and collaborate across different frameworks using ACP in this short course built with IBM Research\u2019s BeeAI, and taught by Sandi Besen, AI Research Engineer & Ecosystem Lead at IBM, and Nicholas Renotte, Head of AI Developer Advocacy at IBM.\n\nBuilding a multi-agent system with agents built or used by different teams and organizations can become challenging. You may need to write custom integrations each time a team updates their agent design or changes their choice of agentic orchestration framework.\n\nThe Agent Communication Protocol (ACP) is an open protocol that addresses this challenge by standardizing how agents communicate, using a unified RESTful interface that works across frameworks. In this protocol, you host an agent inside an ACP server, which handles requests from an ACP client and passes them to the appropriate agent. Using a standardized client-server interface allows multiple teams to reuse agents across projects. It also makes it easier to switch between frameworks, replace an agent with a new version, or update a multi-agent system without refactoring the entire system.\n\nIn this course, you\u2019ll learn to connect agents through ACP. You\u2019ll understand the lifecycle of an ACP Agent and how it compares to other protocols, such as MCP (Model Context Protocol) and A2A (Agent-to-Agent). You\u2019ll build ACP-compliant agents and implement both sequential and hierarchical workflows of multiple agents collaborating using ACP.\n\nThrough hands-on exercises, you\u2019ll build:\n- A RAG agent with CrewAI and wrap it inside an ACP server.\n- An ACP Client to make calls to the ACP server you created.\n- A sequential workflow that chains an ACP server, created with Smolagents, to the RAG agent.\n- A hierarchical workflow using a router agent that transforms user queries into tasks, delegated to agents available through ACP servers.\n- An agent that uses MCP to access tools and ACP to communicate with other agents.\n\nYou\u2019ll finish up by importing your ACP agents into the BeeAI platform, an open-source registry for discovering and sharing agents.\n\nACP enables collaboration between agents across teams and organizations. By the end of this course, you\u2019ll be able to build ACP agents and workflows that communicate and collaborate regardless of framework.\n\nPlease sign up here: https://lnkd.in/g4gES9CF"
+          },
+          "published": "2025-06-28T17:56:42.516814",
+          "url": "https://linkedin.com/feed/update/urn:li:activity:"
+        }
+      ],
+      "post_count": 3
+    },
+    "aravind-srinivas-16051987": {
+      "posts": [
+        {
+          "id": "unknown_0",
+          "content": {
+            "textDirection": "FIRST_STRONG",
+            "attributes": [
+              {
+                "start": 68,
+                "length": 10,
+                "miniCompany": {
+                  "objectUrn": "urn:li:company:88007673",
+                  "entityUrn": "urn:li:fs_miniCompany:88007673",
+                  "name": "Perplexity",
+                  "showcase": false,
+                  "active": true,
+                  "logo": {
+                    "com.linkedin.common.VectorImage": {
+                      "artifacts": [
+                        {
+                          "width": 200,
+                          "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1698290900915/perplexity_ai_logo?e=1756944000&v=beta&t=eg_tpcvucPAsuVRI2vqjbhXm3NTS38ICp8UxAXGR2Wk",
+                          "expiresAt": 1756944000000,
+                          "height": 200
+                        },
+                        {
+                          "width": 100,
+                          "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1698290900915/perplexity_ai_logo?e=1756944000&v=beta&t=n4s1qXehMUH5HBsjTskP3KtVZU1I75q9fHlxX5_hVnc",
+                          "expiresAt": 1756944000000,
+                          "height": 100
+                        },
+                        {
+                          "width": 400,
+                          "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1698290900915/perplexity_ai_logo?e=1756944000&v=beta&t=59UOSIHFrdAMOVhgO-wMMLllmkawXoeGL5SHqWMxnSM",
+                          "expiresAt": 1756944000000,
+                          "height": 400
+                        }
+                      ],
+                      "rootUrl": "https://media.licdn.com/dms/image/v2/D560BAQFNCoFCub_8sw/company-logo_"
+                    }
+                  },
+                  "universalName": "perplexity-ai",
+                  "dashCompanyUrn": "urn:li:fsd_company:88007673",
+                  "trackingId": "j/UqqUyUQAyCp9SYo/uiKA=="
+                },
+                "type": "COMPANY_NAME"
+              }
+            ],
+            "text": "It\u2019s great to see schools in India having their students learn with Perplexity as a tutor. Our founding mission was to make the world\u2019s knowledge accessible, and I\u2019m glad it\u2019s having its impact. Here\u2019s one where students in Telangana are using the voice mode to ask questions back and forth.  youtu.be/OANX0vzGrpM"
+          },
+          "published": "2025-07-05T16:56:50.994616",
+          "url": "https://linkedin.com/feed/update/urn:li:activity:"
+        },
+        {
+          "id": "unknown_1",
+          "content": {
+            "textDirection": "FIRST_STRONG",
+            "attributes": [
+              {
+                "start": 12,
+                "length": 9,
+                "miniProfile": {
+                  "firstName": "Jim",
+                  "lastName": "Waldo",
+                  "dashEntityUrn": "urn:li:fsd_profile:ACoAAAAvOyIBkfFFXjs8pApd-KM6ZCS3X8R-CoY",
+                  "occupation": "Chief Technology Officer at Harvard John A. Paulson School of Engineering and Applied Scienc",
+                  "objectUrn": "urn:li:member:3095330",
+                  "entityUrn": "urn:li:fs_miniProfile:ACoAAAAvOyIBkfFFXjs8pApd-KM6ZCS3X8R-CoY",
+                  "publicIdentifier": "jimwaldo",
+                  "picture": {
+                    "com.linkedin.common.VectorImage": {
+                      "artifacts": [
+                        {
+                          "width": 100,
+                          "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1516279137762?e=1756944000&v=beta&t=HZGmhgHb1OZi53s23x1kUGk3FZOrRRhmufkRfddsGsc",
+                          "expiresAt": 1756944000000,
+                          "height": 100
+                        },
+                        {
+                          "width": 200,
+                          "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1516279137791?e=1756944000&v=beta&t=ugT__5hpZ1Uob-bu5RAydLRJycp2isRgscGOn8xCjDc",
+                          "expiresAt": 1756944000000,
+                          "height": 200
+                        },
+                        {
+                          "width": 239,
+                          "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1516279138228?e=1756944000&v=beta&t=tSJaA9gvl1TbBqBiP9ucdWqAWgtlmysbRk2f4uNq94g",
+                          "expiresAt": 1756944000000,
+                          "height": 239
+                        },
+                        {
+                          "width": 239,
+                          "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1516279138385?e=1756944000&v=beta&t=yzORBuwEXAm8_OLLd2vPxkMOWOsyqFBGw7M9gUJRwHg",
+                          "expiresAt": 1756944000000,
+                          "height": 239
+                        }
+                      ],
+                      "rootUrl": "https://media.licdn.com/dms/image/v2/C4D03AQExBWpGSwPaSg/profile-displayphoto-shrink_"
+                    }
+                  },
+                  "trackingId": "LZIoenBhSa661ubQ0uaM1Q=="
+                },
+                "type": "PROFILE_MENTION"
+              },
+              {
+                "start": 30,
+                "length": 18,
+                "miniCompany": {
+                  "objectUrn": "urn:li:company:1646",
+                  "entityUrn": "urn:li:fs_miniCompany:1646",
+                  "name": "Harvard University",
+                  "showcase": false,
+                  "active": true,
+                  "logo": {
+                    "com.linkedin.common.VectorImage": {
+                      "artifacts": [
+                        {
+                          "width": 200,
+                          "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1631318058235?e=1756944000&v=beta&t=8c9XaeWb_ZHs1-xL_yRGFCXc89VoHnqx170QCtqln3M",
+                          "expiresAt": 1756944000000,
+                          "height": 200
+                        },
+                        {
+                          "width": 100,
+                          "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1631318058235?e=1756944000&v=beta&t=rxt85JegDV86yWW_KMVkicPO4iD1hAWRQg1EZqJjRno",
+                          "expiresAt": 1756944000000,
+                          "height": 100
+                        },
+                        {
+                          "width": 400,
+                          "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1631318058235?e=1756944000&v=beta&t=neDLC3VojnXUN8BUWBVez6McqxniGoh7fYK1ucl1z_0",
+                          "expiresAt": 1756944000000,
+                          "height": 400
+                        }
+                      ],
+                      "rootUrl": "https://media.licdn.com/dms/image/v2/C4E0BAQF5t62bcL0e9g/company-logo_"
+                    }
+                  },
+                  "universalName": "harvard-university",
+                  "dashCompanyUrn": "urn:li:fsd_company:1646",
+                  "trackingId": "rK3TZ9ZdRTqOful9pF0T8g=="
+                },
+                "type": "COMPANY_NAME"
+              },
+              {
+                "start": 131,
+                "length": 10,
+                "miniCompany": {
+                  "objectUrn": "urn:li:company:88007673",
+                  "entityUrn": "urn:li:fs_miniCompany:88007673",
+                  "name": "Perplexity",
+                  "showcase": false,
+                  "active": true,
+                  "logo": {
+                    "com.linkedin.common.VectorImage": {
+                      "artifacts": [
+                        {
+                          "width": 200,
+                          "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1698290900915/perplexity_ai_logo?e=1756944000&v=beta&t=eg_tpcvucPAsuVRI2vqjbhXm3NTS38ICp8UxAXGR2Wk",
+                          "expiresAt": 1756944000000,
+                          "height": 200
+                        },
+                        {
+                          "width": 100,
+                          "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1698290900915/perplexity_ai_logo?e=1756944000&v=beta&t=n4s1qXehMUH5HBsjTskP3KtVZU1I75q9fHlxX5_hVnc",
+                          "expiresAt": 1756944000000,
+                          "height": 100
+                        },
+                        {
+                          "width": 400,
+                          "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1698290900915/perplexity_ai_logo?e=1756944000&v=beta&t=59UOSIHFrdAMOVhgO-wMMLllmkawXoeGL5SHqWMxnSM",
+                          "expiresAt": 1756944000000,
+                          "height": 400
+                        }
+                      ],
+                      "rootUrl": "https://media.licdn.com/dms/image/v2/D560BAQFNCoFCub_8sw/company-logo_"
+                    }
+                  },
+                  "universalName": "perplexity-ai",
+                  "dashCompanyUrn": "urn:li:fsd_company:88007673",
+                  "trackingId": "YWZfBVSCSEilj529hOvJWw=="
+                },
+                "type": "COMPANY_NAME"
+              },
+              {
+                "start": 193,
+                "length": 23,
+                "miniCompany": {
+                  "objectUrn": "urn:li:company:3290938",
+                  "entityUrn": "urn:li:fs_miniCompany:3290938",
+                  "name": "Harvard Innovation Labs",
+                  "showcase": false,
+                  "active": true,
+                  "logo": {
+                    "com.linkedin.common.VectorImage": {
+                      "artifacts": [
+                        {
+                          "width": 200,
+                          "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1730384238165/harvard_innovation_labs_logo?e=1756944000&v=beta&t=zACToVol4L4QfHhwW6-nqEUbDO6uUrcvEwoHh2ojtd8",
+                          "expiresAt": 1756944000000,
+                          "height": 200
+                        },
+                        {
+                          "width": 100,
+                          "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1730384238165/harvard_innovation_labs_logo?e=1756944000&v=beta&t=Hciyaub_0HZPhDSPL94v4QbRFqDkZYf44_VkqW-eWy4",
+                          "expiresAt": 1756944000000,
+                          "height": 100
+                        },
+                        {
+                          "width": 400,
+                          "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1730384238165/harvard_innovation_labs_logo?e=1756944000&v=beta&t=vsaoozTNUQpUZu-QmPFicsFDQr3gSd09By204I1_33Q",
+                          "expiresAt": 1756944000000,
+                          "height": 400
+                        }
+                      ],
+                      "rootUrl": "https://media.licdn.com/dms/image/v2/D4E0BAQHx3DFYBojQrQ/company-logo_"
+                    }
+                  },
+                  "universalName": "harvard-innovation-labs",
+                  "dashCompanyUrn": "urn:li:fsd_company:3290938",
+                  "trackingId": "L9KmVi4eTG+vg9VXl500DQ=="
+                },
+                "type": "COMPANY_NAME"
+              }
+            ],
+            "text": "A chat with Jim Waldo, CTO of Harvard University  and pioneer of the Java programming language (myself and Johnny Ho, representing Perplexity as cofounders) https://lnkd.in/gXc8S8nJ, hosted by Harvard Innovation Labs"
+          },
+          "published": "2025-07-05T01:56:50.994616",
+          "url": "https://linkedin.com/feed/update/urn:li:activity:"
+        },
+        {
+          "id": "unknown_2",
+          "content": {
+            "textDirection": "FIRST_STRONG",
+            "attributes": [
+              {
+                "start": 71,
+                "length": 10,
+                "miniCompany": {
+                  "objectUrn": "urn:li:company:88007673",
+                  "entityUrn": "urn:li:fs_miniCompany:88007673",
+                  "name": "Perplexity",
+                  "showcase": false,
+                  "active": true,
+                  "logo": {
+                    "com.linkedin.common.VectorImage": {
+                      "artifacts": [
+                        {
+                          "width": 200,
+                          "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1698290900915/perplexity_ai_logo?e=1756944000&v=beta&t=eg_tpcvucPAsuVRI2vqjbhXm3NTS38ICp8UxAXGR2Wk",
+                          "expiresAt": 1756944000000,
+                          "height": 200
+                        },
+                        {
+                          "width": 100,
+                          "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1698290900915/perplexity_ai_logo?e=1756944000&v=beta&t=n4s1qXehMUH5HBsjTskP3KtVZU1I75q9fHlxX5_hVnc",
+                          "expiresAt": 1756944000000,
+                          "height": 100
+                        },
+                        {
+                          "width": 400,
+                          "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1698290900915/perplexity_ai_logo?e=1756944000&v=beta&t=59UOSIHFrdAMOVhgO-wMMLllmkawXoeGL5SHqWMxnSM",
+                          "expiresAt": 1756944000000,
+                          "height": 400
+                        }
+                      ],
+                      "rootUrl": "https://media.licdn.com/dms/image/v2/D560BAQFNCoFCub_8sw/company-logo_"
+                    }
+                  },
+                  "universalName": "perplexity-ai",
+                  "dashCompanyUrn": "urn:li:fsd_company:88007673",
+                  "trackingId": "/edtOocURcGWFyJvmy66Hw=="
+                },
+                "type": "COMPANY_NAME"
+              }
+            ],
+            "text": "Morningstar's financial research reports are now available for free on Perplexity Finance"
+          },
+          "published": "2025-07-04T17:56:50.994616",
+          "url": "https://linkedin.com/feed/update/urn:li:activity:"
+        },
+        {
+          "id": "unknown_3",
+          "content": {
+            "textDirection": "FIRST_STRONG",
+            "attributes": [
+              {
+                "start": 32,
+                "length": 10,
+                "miniCompany": {
+                  "objectUrn": "urn:li:company:88007673",
+                  "entityUrn": "urn:li:fs_miniCompany:88007673",
+                  "name": "Perplexity",
+                  "showcase": false,
+                  "active": true,
+                  "logo": {
+                    "com.linkedin.common.VectorImage": {
+                      "artifacts": [
+                        {
+                          "width": 200,
+                          "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1698290900915/perplexity_ai_logo?e=1756944000&v=beta&t=eg_tpcvucPAsuVRI2vqjbhXm3NTS38ICp8UxAXGR2Wk",
+                          "expiresAt": 1756944000000,
+                          "height": 200
+                        },
+                        {
+                          "width": 100,
+                          "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1698290900915/perplexity_ai_logo?e=1756944000&v=beta&t=n4s1qXehMUH5HBsjTskP3KtVZU1I75q9fHlxX5_hVnc",
+                          "expiresAt": 1756944000000,
+                          "height": 100
+                        },
+                        {
+                          "width": 400,
+                          "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1698290900915/perplexity_ai_logo?e=1756944000&v=beta&t=59UOSIHFrdAMOVhgO-wMMLllmkawXoeGL5SHqWMxnSM",
+                          "expiresAt": 1756944000000,
+                          "height": 400
+                        }
+                      ],
+                      "rootUrl": "https://media.licdn.com/dms/image/v2/D560BAQFNCoFCub_8sw/company-logo_"
+                    }
+                  },
+                  "universalName": "perplexity-ai",
+                  "dashCompanyUrn": "urn:li:fsd_company:88007673",
+                  "trackingId": "CVaPnJrkSoav5QQJebE8Dw=="
+                },
+                "type": "COMPANY_NAME"
+              }
+            ],
+            "text": "You can now schedule tasks with Perplexity on WhatsApp. This is the first time you get to feel a basic \u201cassistant\u201d on WhatsApp that sends you periodic news alerts, custom reminders at a frequency you set all in simple natural language. Message +1 (833) 436-3285 to start. Link to the Assistant: http://wa.me/18334363285"
+          },
+          "published": "2025-06-28T17:56:50.994616",
+          "url": "https://linkedin.com/feed/update/urn:li:activity:"
+        }
+      ],
+      "post_count": 4
+    },
+    "malan": {
+      "posts": [],
+      "post_count": 0
+    }
+  },
+  "total_posts": 7
+}
